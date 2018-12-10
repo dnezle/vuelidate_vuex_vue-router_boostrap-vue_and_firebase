@@ -1,0 +1,2 @@
+# vuelidate_vuex_vue-router_boostrap-vue_and_firebase
+Created with CodeSandbox
